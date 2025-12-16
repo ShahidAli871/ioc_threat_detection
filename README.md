@@ -1,6 +1,4 @@
-# ioc_threat_detection
-
-Will I be able to do anything in this. I am not sure but i have to try something 
+# IOC_based_threat_detection
 
 This repository implements a minimal phishing detection pipeline: parse .eml, extract IOCs, query threat intelligence (stubbed), score risk, and write a JSON report.
 

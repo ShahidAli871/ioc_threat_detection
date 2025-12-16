@@ -1,0 +1,8 @@
+From: attacker@example.com
+To: victim@example.com
+Subject: Urgent: verify your account
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Please login at https://bad.example.com/login and enter your password.

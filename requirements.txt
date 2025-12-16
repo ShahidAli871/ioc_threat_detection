@@ -1,0 +1,4 @@
+aiohttp
+validators
+tldextract
+python-magic

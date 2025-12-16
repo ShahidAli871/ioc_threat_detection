@@ -1,0 +1,20 @@
+# Local environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+
+# Data and logs
+data/cache/
+data/output/
+logs/
+
+# Editor
+.vscode/
+.idea/
